@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#test
-=======
-#this if for test
->>>>>>> 7d2d5e97dde9dea734168cff30a200ec1c9a0ddd
+#This is for test
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
